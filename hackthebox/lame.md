@@ -276,7 +276,8 @@ sh-3.2# cat root/root.txt
 cat root/root.txt
 92caac3be140ef409e45721348a4e9df
  ```
-- Flags: `69454a937d94f5f0225ea00acd2e84c5` and `92caac3be140ef409e45721348a4e9df`
+### 4. Flags
+`69454a937d94f5f0225ea00acd2e84c5` and `92caac3be140ef409e45721348a4e9df`
 
 
 
