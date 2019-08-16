@@ -18,6 +18,9 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - https://www.jpsecnetworks.com/category/oscp/
 - http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
 - https://alphacybersecurity.tech/my-fight-for-the-oscp/
+- https://r3dg33k.com/2018-10-09-oscp-exp/
+- https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/
+- https://legacy.gitbook.com/book/sushant747/total-oscp-guide/details
 
 ### Hack The Box
 - 15/08/2019: Set VIP account and [connect](hackthebox/connect.md) to machines
