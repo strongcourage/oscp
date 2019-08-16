@@ -13,5 +13,5 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
 
 ### Hack The Box
-- 15/08/2019: Set VIP account and connect to machines
+- 15/08/2019: Set VIP account and [connect](hackthebox/connect.md) to machines
 - 15/08/2019: Solve [Lame](/hackthebox/Lame)
