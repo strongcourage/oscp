@@ -1,8 +1,8 @@
-## Lame 10.10.10.3
-### 0. Refs
+# Lame 10.10.10.3
+## 0. Refs
   + https://www.youtube.com/watch?v=Ru8YxARNS7M
   + [HTB's writeup](./Lame.pdf)
-### 1. Enumeration
+## 1. Enumeration
 - Run nmap and output to file txt:
 ```
 $ nmap -sV -A -oN 10.10.10.3.txt 10.10.10.3
