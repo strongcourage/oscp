@@ -2,6 +2,7 @@ To prepare for my future job as a security pentester, I plan to get the certific
 
 ### OSCP guides and reviews
 - [OSCP Certification Exam Guide](https://support.offensive-security.com/oscp-exam-guide/)
+- Offensive Security free courses: [Kali Linux Revealed](https://kali.training/), [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/). More [online training courses](https://www.offensive-security.com/information-security-training/)
 - [PWK syllabus](penetration-testing-with-kali.pdf)
 - [PWK support](https://support.offensive-security.com/pwk-support/)
 - [PWK reporting](https://support.offensive-security.com/pwk-reporting/)
