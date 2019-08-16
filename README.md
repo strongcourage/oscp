@@ -6,7 +6,7 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - [PWK syllabus](penetration-testing-with-kali.pdf)
 - [PWK support](https://support.offensive-security.com/pwk-support/)
 - [PWK reporting](https://support.offensive-security.com/pwk-reporting/)
-- [PWK Example Report](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf)
+- [PWK Example Report](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf), [doc format](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc)
 - http://www.networkadminsecrets.com/2010/12/offensive-security-certified.html
 - https://www.lewisecurity.com/i-am-finally-an-oscp/
 - https://teckk2.github.io/category/OSCP.html
@@ -21,6 +21,7 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - https://r3dg33k.com/2018-10-09-oscp-exp/
 - https://tulpa-security.com/2016/09/19/prep-guide-for-offsecs-pwk/
 - https://legacy.gitbook.com/book/sushant747/total-oscp-guide/details
+- https://blackwintersecurity.com/oscp/
 
 ### Hack The Box
 - 15/08/2019: Set VIP account and [connect](hackthebox/connect.md) to machines
