@@ -15,7 +15,7 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - [PWK syllabus](penetration-testing-with-kali.pdf)
 - [PWK support](https://support.offensive-security.com/pwk-support/)
 - [PWK reporting](https://support.offensive-security.com/pwk-reporting/)
-- [PWK Example Report](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf), [doc format](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc)
+- [PWK Example Report](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf), [doc format](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc), [pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
 
 ### OSCP reviews
 - http://www.networkadminsecrets.com/2010/12/offensive-security-certified.html
