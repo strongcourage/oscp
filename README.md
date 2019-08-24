@@ -39,3 +39,4 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 - https://411hall.github.io/OSCP-Preparation/
 - https://h4ck.co/oscp-journey-exam-lab-prep-tips/
+- https://jhalon.github.io/OSCP-Review/
