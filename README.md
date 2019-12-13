@@ -20,6 +20,9 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - [PWK reporting](https://support.offensive-security.com/pwk-reporting/)
 - [PWK Example Report](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf), [doc format](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc), [pentest report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
 
+### OSCP tools
+- [OSCP Approved Tools](https://medium.com/@falconspy/oscp-approved-tools-b2b4e889e707)
+
 ### OSCP reviews
 - http://www.networkadminsecrets.com/2010/12/offensive-security-certified.html
 - https://www.lewisecurity.com/i-am-finally-an-oscp/
@@ -40,3 +43,4 @@ To prepare for my future job as a security pentester, I plan to get the certific
 - https://411hall.github.io/OSCP-Preparation/
 - https://h4ck.co/oscp-journey-exam-lab-prep-tips/
 - https://jhalon.github.io/OSCP-Review/
+- https://sinw0lf.github.io/?fbclid=IwAR3JTBiIFpVZDoQuBKiMyx8VpBQP8TP8gWYASa__sKVrjUMCg7Z21VxrXKk
