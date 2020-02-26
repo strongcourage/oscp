@@ -1,11 +1,20 @@
 To prepare for my future job as a security pentester, I plan to get the certificate [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) next year. Before taking the exam, I need to take the course Penetration Testing with Kali Linux (PWK) provided by Offensive Security. This repo contains my notes of the journey and also keeps track of my progress.
 
+### OSCP
+- 01/03/2020: Start my journey
+
+### Try Hack Me (OSCP Preparation Path)
+
 ### Hack The Box
 - 15/08/2019: Set VIP account and [connect](hackthebox/connect.md) to machines
 - 15/08/2019: Solve [Lame](/hackthebox/Lame)
 
 ### Vulnhub
 - 17/08/2019: Solve [Toppo](/vulnhub/Toppo)
+
+### [Virtual Hacking Labs](https://www.virtualhackinglabs.com/)
+- 11/2019 - 02/2020: Root all 43/43 machines
+![Selection_383](https://user-images.githubusercontent.com/9584484/75338486-112dc000-588f-11ea-8081-f9bbf62a152d.png)
 
 ### Cheatsheet
 - [Nmap](https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf)
