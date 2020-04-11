@@ -2,6 +2,12 @@ To prepare for my future job as a security pentester, I plan to get the certific
 
 ### OSCP
 - 01/03/2020: Start my journey
+- Mar 01 - 08, 2020: rooted **6** machines (Alice, Alpha, Mike, Hotline, Kraken, Dotty) & got low shell **3** machines (Bob, FC4, Sean). Total: **6** machines.
+- <span style="color:blue">Mar 09 - 15, 2020</span>: rooted **5** machines (Pain, Susie, Jeff, Phoenix, Beta) & got low shell **3** machines (Core, Disco, Leftturn). Total: <span style="color:red">**11**</span> machines.
+- <span style="color:blue">Mar 16 - 22, 2020</span>: rooted **5** machines (Leftturn, Bethany, FC4, Core, Break). Total: <span style="color:red">**16**</span> machines.
+- <span style="color:blue">Mar 23 - 29, 2020</span>: did some exercises (chapter 2, 3, 6), rooted **1** machines (Ralph) & unlocked **IT Department**. Total: <span style="color:red">**17**</span> machines.
+- <span style="color:blue">Mar 30 - Apr 05, 2020</span>: rooted **7** machines (Bruce, Bob, Tophat, JD, Joe, Parrot, Sean) & got low shell **1** machines (Timeclock). Total: <span style="color:red">**24**</span> machines (found the same network-secret.txt of IT Dept on another machine).
+- <span style="color:blue">Apr 06 - 12, 2020</span>: rooted **3** machines (Timeclock, Disco, Gh0st) & unlocked **DEV Department**. Total: <span style="color:red">**27**</span> machines.
 
 ### Try Hack Me (OSCP Preparation Path)
 
