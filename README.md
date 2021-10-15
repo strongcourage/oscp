@@ -1,3 +1,10 @@
+
+## UPDATES: Highly recommend OffSec Proving Grounds for OSCP preparation! My best ranking in December 2020 is 16 / 2147 students. I share my writeups of PG Practice machines: 
+https://drive.google.com/drive/folders/17KUupo8dF8lPJqUzjObIqQLup1h_py9t?usp=sharing
+![best_ranking_offsec](https://user-images.githubusercontent.com/9584484/137512091-b5ffe0d9-d037-467b-8afc-ff0bab66be05.png)
+
+========================================
+
 To prepare for my future job as a security pentester, I plan to get the certificate [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) next year. Before taking the exam, I need to take the course Penetration Testing with Kali Linux (PWK) provided by Offensive Security. This repo contains my notes of the journey and also keeps track of my progress.
 
 ### OSCP
