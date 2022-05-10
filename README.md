@@ -1,5 +1,5 @@
 
-## UPDATES: Highly recommend OffSec Proving Grounds for OSCP preparation! My best ranking in December 2020 is 16 / 2147 students. I share my writeups of PG Practice machines: 
+## UPDATES: Highly recommend OffSec Proving Grounds for OSCP preparation! My best ranking in December 2021 is 16 / 2147 students. I share my writeups of 50+ old PG Practice machines (please send a request): 
 https://drive.google.com/drive/folders/17KUupo8dF8lPJqUzjObIqQLup1h_py9t?usp=sharing
 ![best_ranking_offsec](https://user-images.githubusercontent.com/9584484/137512091-b5ffe0d9-d037-467b-8afc-ff0bab66be05.png)
 
